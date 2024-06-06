@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Prc.API.csproj": {}
+    "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.API\\Prc.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Prc.API.csproj": {
+    "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.API\\Prc.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Prc.API.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.API\\Prc.API.csproj",
         "projectName": "Prc.API",
-        "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Prc.API.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\obj\\",
+        "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.API\\Prc.API.csproj",
+        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
+        "outputPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Prc.Data.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Prc.Data.csproj"
+              "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Data\\Prc.Data.csproj": {
+                "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Data\\Prc.Data.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Prc.Services.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Prc.Services.csproj"
+              "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Services\\Prc.Services.csproj": {
+                "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Services\\Prc.Services.csproj"
               }
             }
           }
@@ -86,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj": {
+    "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj",
         "projectName": "Prc.Core",
-        "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\obj\\",
+        "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj",
+        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
+        "outputPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -112,6 +113,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -156,24 +158,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Prc.Data.csproj": {
+    "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Data\\Prc.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Prc.Data.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Data\\Prc.Data.csproj",
         "projectName": "Prc.Data",
-        "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Prc.Data.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\obj\\",
+        "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Data\\Prc.Data.csproj",
+        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
+        "outputPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -182,14 +184,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj"
+              "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj": {
+                "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj"
               }
             }
           }
@@ -236,24 +239,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Prc.Services.csproj": {
+    "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Services\\Prc.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Prc.Services.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Services\\Prc.Services.csproj",
         "projectName": "Prc.Services",
-        "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Prc.Services.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\obj\\",
+        "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Services\\Prc.Services.csproj",
+        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
+        "outputPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -262,14 +265,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj"
+              "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj": {
+                "projectPath": "Y:\\Groups\\Group_2\\מלין  נחמה\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj"
               }
             }
           }
@@ -304,7 +308,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

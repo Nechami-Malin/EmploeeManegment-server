@@ -3,6 +3,7 @@ using Prc.Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,9 +13,10 @@ namespace Prc.Data
     {
         public DbSet<Employee> Employees { get; set; }   
         public DbSet<Role> Roles { get; set; }   
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=mng_workers");
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("Server = 34.122.63.173; Database =emp-mng-Nechami; Uid = SqlServer; Pwd = 123456; TrustServerCertificate = Yes");   
+        //    //"Server=(localdb)\\mssqllocaldb;Database=mng_workers"
+        //}
     }
 }

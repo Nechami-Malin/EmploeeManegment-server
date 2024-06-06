@@ -1,125 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\",
+  "WorkspaceRootPath": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.services\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.services\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.services\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.services\\prc.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\prc.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.data\\prc.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\prc.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\services\\iemployeeservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\services\\iemployeeservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\mapping\\coremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\mapping\\coremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\entities\\emploeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\entities\\emploeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\dtos\\employeeroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\dtos\\employeeroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\mapping\\controllermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.services\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.services\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.services\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.services\\prc.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{258A2942-EF4E-4472-9EA7-89C38F47B3C8}|Prc.Services\\Prc.Services.csproj|solutionrelative:prc.services\\prc.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.data\\prc.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\prc.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\services\\iemployeeservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\services\\iemployeeservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\mapping\\coremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\mapping\\coremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\entities\\emploeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\entities\\emploeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\dtos\\employeeroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\dtos\\employeeroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\mapping\\controllermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\mapping\\controllermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\models\\employeerolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\models\\employeerolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\models\\employeerolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\models\\rolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\models\\rolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\models\\rolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.api\\models\\employeepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.api\\models\\employeepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABD86C3-10F1-44F6-8355-19394AAEA5A1}|Prc.API\\Prc.API.csproj|solutionrelative:prc.api\\models\\employeepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -132,15 +132,15 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/mng_workers/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.data\\migrations\\20240401180831_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.data\\migrations\\20240401180831_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\migrations\\20240401180831_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.core\\prc.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "AbsoluteMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.core\\prc.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
       "RelativeMoniker": "D:0:0:{44BC9A58-0725-4B0E-AEF9-934E8C4D7A05}|Prc.Core\\Prc.Core.csproj|solutionrelative:prc.core\\prc.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|c:\\users\\user1\\desktop\\practicum\\prc.server\\prc.data\\migrations\\20240402104252_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|y:\\groups\\group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\cloud\\server\\prc.data\\migrations\\20240402104252_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E19A42A-003E-4ED1-956A-370CA86704D2}|Prc.Data\\Prc.Data.csproj|solutionrelative:prc.data\\migrations\\20240402104252_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -151,17 +151,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\DataContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Prc.Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\DataContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\DataContext.cs",
               "RelativeToolTip": "Prc.Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T16:13:31.126Z",
               "EditorCaption": ""
@@ -169,348 +173,328 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Repositories\\RoleRepository.cs",
-              "RelativeDocumentMoniker": "Prc.Data\\Repositories\\RoleRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Repositories\\RoleRepository.cs",
-              "RelativeToolTip": "Prc.Data\\Repositories\\RoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:32:43.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Prc.Services.csproj",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Prc.Services.csproj",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Prc.Services.csproj",
               "RelativeDocumentMoniker": "Prc.Services\\Prc.Services.csproj",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Prc.Services.csproj",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Prc.Services.csproj",
               "RelativeToolTip": "Prc.Services\\Prc.Services.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-31T16:13:31.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T16:13:31.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Services\\AuthenticationService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "Prc.Services\\Services\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Services\\AuthenticationService.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Services\\AuthenticationService.cs",
               "RelativeToolTip": "Prc.Services\\Services\\AuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T20:56:54.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeesService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Services\\EmployeesService.cs",
-              "RelativeDocumentMoniker": "Prc.Services\\Services\\EmployeesService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Services\\EmployeesService.cs",
-              "RelativeToolTip": "Prc.Services\\Services\\EmployeesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:13:31.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T20:56:54.175Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Services\\RoleService.cs",
-              "RelativeDocumentMoniker": "Prc.Services\\Services\\RoleService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Services\\Services\\RoleService.cs",
-              "RelativeToolTip": "Prc.Services\\Services\\RoleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:34:27.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Prc.Data\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "Prc.Data\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:13:31.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Prc.Data.csproj",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Prc.Data.csproj",
-              "RelativeDocumentMoniker": "Prc.Data\\Prc.Data.csproj",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Prc.Data.csproj",
-              "RelativeToolTip": "Prc.Data\\Prc.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-31T16:13:31.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IRoleService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Services\\IRoleService.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Services\\IRoleService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Services\\IRoleService.cs",
-              "RelativeToolTip": "Prc.Core\\Services\\IRoleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:32:06.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IEmployeeServise.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Services\\IEmployeeServise.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Services\\IEmployeeServise.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Services\\IEmployeeServise.cs",
-              "RelativeToolTip": "Prc.Core\\Services\\IEmployeeServise.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:13:31.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Services\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Services\\IAuthService.cs",
-              "RelativeToolTip": "Prc.Core\\Services\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T20:58:06.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IRoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Repositories\\IRoleRepository.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Repositories\\IRoleRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Repositories\\IRoleRepository.cs",
-              "RelativeToolTip": "Prc.Core\\Repositories\\IRoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:30:56.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Repositories\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Repositories\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Repositories\\IEmployeeRepository.cs",
-              "RelativeToolTip": "Prc.Core\\Repositories\\IEmployeeRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:13:31.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CoreMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Mapping\\CoreMappingProfile.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Mapping\\CoreMappingProfile.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Mapping\\CoreMappingProfile.cs",
-              "RelativeToolTip": "Prc.Core\\Mapping\\CoreMappingProfile.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T17:22:56.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Entities\\Role.cs",
-              "RelativeToolTip": "Prc.Core\\Entities\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:21:28.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Entities\\Employee.cs",
-              "RelativeToolTip": "Prc.Core\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:13:31.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EmploeeRole.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Entities\\EmploeeRole.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\Entities\\EmploeeRole.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Entities\\EmploeeRole.cs",
-              "RelativeToolTip": "Prc.Core\\Entities\\EmploeeRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:42:42.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RoleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\DTOs\\RoleDTO.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\DTOs\\RoleDTO.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\DTOs\\RoleDTO.cs",
-              "RelativeToolTip": "Prc.Core\\DTOs\\RoleDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T17:09:43.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmployeeRoleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
-              "RelativeToolTip": "Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T17:11:39.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\DTOs\\EmployeeDTO.cs",
-              "RelativeDocumentMoniker": "Prc.Core\\DTOs\\EmployeeDTO.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\DTOs\\EmployeeDTO.cs",
-              "RelativeToolTip": "Prc.Core\\DTOs\\EmployeeDTO.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T17:09:24.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Program.cs",
-              "RelativeDocumentMoniker": "Prc.API\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Program.cs",
-              "RelativeToolTip": "Prc.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:13:31.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\appsettings.json",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\appsettings.json",
               "RelativeDocumentMoniker": "Prc.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\appsettings.json",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\appsettings.json",
               "RelativeToolTip": "Prc.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-31T16:13:46.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Prc.Data\\Repositories\\RoleRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Prc.Data\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:32:43.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Services\\EmployeesService.cs",
+              "RelativeDocumentMoniker": "Prc.Services\\Services\\EmployeesService.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Services\\EmployeesService.cs",
+              "RelativeToolTip": "Prc.Services\\Services\\EmployeesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:13:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Prc.Services\\Services\\RoleService.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Services\\Services\\RoleService.cs",
+              "RelativeToolTip": "Prc.Services\\Services\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:34:27.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Prc.Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Prc.Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:13:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prc.Data.csproj",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Prc.Data.csproj",
+              "RelativeDocumentMoniker": "Prc.Data\\Prc.Data.csproj",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Prc.Data.csproj",
+              "RelativeToolTip": "Prc.Data\\Prc.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T16:13:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Services\\IRoleService.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Services\\IRoleService.cs",
+              "RelativeToolTip": "Prc.Core\\Services\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:32:06.16Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeServise.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Services\\IEmployeeServise.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Services\\IEmployeeServise.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Services\\IEmployeeServise.cs",
+              "RelativeToolTip": "Prc.Core\\Services\\IEmployeeServise.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:13:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Services\\IAuthService.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Prc.Core\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:58:06.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "Prc.Core\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:30:56.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Prc.Core\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:13:31.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoreMappingProfile.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Mapping\\CoreMappingProfile.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Mapping\\CoreMappingProfile.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Mapping\\CoreMappingProfile.cs",
+              "RelativeToolTip": "Prc.Core\\Mapping\\CoreMappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:22:56.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Entities\\Role.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Entities\\Role.cs",
+              "RelativeToolTip": "Prc.Core\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:21:28.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Entities\\Employee.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "Prc.Core\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:13:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmploeeRole.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Entities\\EmploeeRole.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\Entities\\EmploeeRole.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Entities\\EmploeeRole.cs",
+              "RelativeToolTip": "Prc.Core\\Entities\\EmploeeRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:42:42.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\DTOs\\RoleDTO.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "Prc.Core\\DTOs\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:09:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeRoleDTO.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
+              "RelativeToolTip": "Prc.Core\\DTOs\\EmployeeRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:11:39.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Prc.Core\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "Prc.Core\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:09:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Program.cs",
+              "RelativeDocumentMoniker": "Prc.API\\Program.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Program.cs",
+              "RelativeToolTip": "Prc.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:13:31.177Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ControllerMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Mapping\\ControllerMappingProfile.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Mapping\\ControllerMappingProfile.cs",
               "RelativeDocumentMoniker": "Prc.API\\Mapping\\ControllerMappingProfile.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Mapping\\ControllerMappingProfile.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Mapping\\ControllerMappingProfile.cs",
               "RelativeToolTip": "Prc.API\\Mapping\\ControllerMappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:45:00.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T16:45:00.665Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Controllers\\RolesController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Prc.API\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Controllers\\RolesController.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Controllers\\RolesController.cs",
               "RelativeToolTip": "Prc.API\\Controllers\\RolesController.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAAACYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:34:54.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T16:34:54.584Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Controllers\\EmployeesController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "Prc.API\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "Prc.API\\Controllers\\EmployeesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T16:13:31.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T16:13:31.189Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\LoginModel.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Prc.API\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\LoginModel.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\LoginModel.cs",
               "RelativeToolTip": "Prc.API\\Models\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T20:53:59.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T20:53:59.433Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "authenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Controllers\\authenticationController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Controllers\\authenticationController.cs",
               "RelativeDocumentMoniker": "Prc.API\\Controllers\\authenticationController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Controllers\\authenticationController.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Controllers\\authenticationController.cs",
               "RelativeToolTip": "Prc.API\\Controllers\\authenticationController.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T20:55:17.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T20:55:17.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "EmployeeRolePostModel.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\EmployeeRolePostModel.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\EmployeeRolePostModel.cs",
               "RelativeDocumentMoniker": "Prc.API\\Models\\EmployeeRolePostModel.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\EmployeeRolePostModel.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\EmployeeRolePostModel.cs",
               "RelativeToolTip": "Prc.API\\Models\\EmployeeRolePostModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,9 +504,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "RolePostModel.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\RolePostModel.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\RolePostModel.cs",
               "RelativeDocumentMoniker": "Prc.API\\Models\\RolePostModel.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\RolePostModel.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\RolePostModel.cs",
               "RelativeToolTip": "Prc.API\\Models\\RolePostModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,9 +516,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "EmployeePostModel.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\EmployeePostModel.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\EmployeePostModel.cs",
               "RelativeDocumentMoniker": "Prc.API\\Models\\EmployeePostModel.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.API\\Models\\EmployeePostModel.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.API\\Models\\EmployeePostModel.cs",
               "RelativeToolTip": "Prc.API\\Models\\EmployeePostModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,9 +546,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "20240402104252_init2.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Migrations\\20240402104252_init2.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Migrations\\20240402104252_init2.cs",
               "RelativeDocumentMoniker": "Prc.Data\\Migrations\\20240402104252_init2.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Migrations\\20240402104252_init2.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Migrations\\20240402104252_init2.cs",
               "RelativeToolTip": "Prc.Data\\Migrations\\20240402104252_init2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -583,9 +567,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "20240401180831_init1.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Migrations\\20240401180831_init1.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Migrations\\20240401180831_init1.cs",
               "RelativeDocumentMoniker": "Prc.Data\\Migrations\\20240401180831_init1.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Data\\Migrations\\20240401180831_init1.cs",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Data\\Migrations\\20240401180831_init1.cs",
               "RelativeToolTip": "Prc.Data\\Migrations\\20240401180831_init1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -595,9 +579,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "Prc.Core",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj",
+              "DocumentMoniker": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj",
               "RelativeDocumentMoniker": "Prc.Core\\Prc.Core.csproj",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Practicum\\Prc.Server\\Prc.Core\\Prc.Core.csproj",
+              "ToolTip": "Y:\\Groups\\Group_2\\\u05DE\u05DC\u05D9\u05DF  \u05E0\u05D7\u05DE\u05D4\\Cloud\\Server\\Prc.Core\\Prc.Core.csproj",
               "RelativeToolTip": "Prc.Core\\Prc.Core.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-31T16:13:31.177Z"
